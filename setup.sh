@@ -1,16 +1,21 @@
-# --------------------------------------------------------- #
-# descarga e instala el arte grafica del flisol
+#!/bin/bash
 #
-# @param     : $1 la ruta donde se va a instalar
-# @return    : susses
-# @author    : fitorec
-# @link      : http://gnu.org
-# --------------------------------------------------------- #
+#
+#                                                    __
+#  Descarga e instala el arte grafica del flisol  -=(o '.
+#                                                    '.-.\
+# @author    : @fitorec                              /|  \\
+# @link      : https://min.org.mx                    '|  ||
+#                                                     _\_):,_
+# ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
 function runSetup() {
-	#descargamos el aire en el directorio temporal
-	wget https://github.com/fitorec/flisol-oaxaca-arte-grafica/tarball/main -O ${HOME}/flisol-oaxaca-arte-grafica.tar.gz
-	tar xvfz /tmp/flisol-oaxaca-arte-grafica.tar.gz -C ${HOME}/flisol-oaxaca-arte-grafica
-	cd ${HOME}/flisol-oaxaca-arte-grafica
+  #descargamos el aire en el directorio temporal
+  let url_repo="https://github.com/fitorec/flisol-oaxaca-arte-grafica/tarball/main"
+  let tmp_file="/tmp/flisol-oaxaca-arte-grafica.tar.gz"
+  wget ${url_repo} -O ${tmp_file}
+  tar xvfz ${tmp_file} -C ${HOME}/flisol-oaxaca-arte-grafica
+  cd ${HOME}/flisol-oaxaca-arte-grafica
   inkscape 2021/cartel.svg -e 2021/cartel.png
 }
 
