@@ -5,7 +5,9 @@ Este repositorio contiene archivos del arte gráfica del Flisol, sientete libre 
 
 ## Descargar:
 
-wget -O - https://github.com/fitorec/flisol-oaxaca-arte-grafica/master/setup.sh | bash
+```sh
+wget -O - https://raw.githubusercontent.com/fitorec/flisol-oaxaca-arte-grafica/main/setup.sh | bash
+```
 
 ## Requerimientos:
 
