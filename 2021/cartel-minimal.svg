@@ -13,7 +13,7 @@
    viewBox="0 0 218.28124 304.27084"
    height="1150"
    width="825"
-   sodipodi:docname="cartel.svg"
+   sodipodi:docname="cartel-minimal.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -28,9 +28,9 @@
      inkscape:window-height="712"
      id="namedview2949"
      showgrid="false"
-     inkscape:zoom="0.64070023"
-     inkscape:cx="368.54436"
-     inkscape:cy="780.594"
+     inkscape:zoom="0.45304348"
+     inkscape:cx="167.5954"
+     inkscape:cy="562.35691"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -181,82 +181,6 @@
      x="1.3352839"
      y="1.3352956"
      ry="0" />
-  <path
-     style="fill:none;stroke:#719c83;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 126.20625,84.82199 0,18.46298 3.47768,2.80776 0.53364,17.35613 -2.73973,14.50444 -7.57453,13.69863 -2.41741,16.11604 8.93055,14.59089 11.72459,-0.4239 -9.71958,5.88784 1.08342,10.15766"
-     id="path6618"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccc" />
-  <text
-     style="fill:url(#linearGradient6670);fill-opacity:1;opacity:1"
-     id="texto-binario"
-     y="0"
-     x="0">
-    <!--
-      Generados con:
-      https://codebeautify.org/generate-random-binary-numbers
-    -->
-    <tspan
-       style="fill:url(#linearGradient6670);fill-opacity:1"
-       y="210"
-       x="5"
-       id="tspan2777">00101110000100000110101101011                              101  0001001001011110110001110011001001000011</tspan>
-    <tspan
-       style="fill:url(#linearGradient6670);fill-opacity:1"
-       y="215"
-       x="5"
-       id="tspan2779">10111100001110000001100110010                              0   01101101011010111010100101101101110101110</tspan>
-    <tspan
-       style="fill:url(#linearGradient6670);fill-opacity:1"
-       y="220"
-       x="5"
-       id="tspan2781">001010000001111101110110010010                               10111110100010     100100011001001110000101</tspan>
-    <tspan
-       style="fill:url(#linearGradient6670);fill-opacity:1"
-       y="225"
-       x="5"
-       id="tspan2783">00001011011010010111111100110001                         10100001              0101011001110001010011011</tspan>
-    <tspan
-       style="fill:url(#linearGradient6670);fill-opacity:1"
-       y="230"
-       x="5"
-       id="tspan2785">0111110111101011  010001110001011                       110110               011110000000011000101100101</tspan>
-    <tspan
-       style="fill:url(#linearGradient6670);fill-opacity:1"
-       y="235"
-       x="5"
-       id="tspan2787">0111011101011110    11100101100                        01001             1110111100010110010101110100100</tspan>
-    <tspan
-       style="fill:url(#linearGradient6670);fill-opacity:1"
-       y="240"
-       x="5"
-       id="tspan2789">100101100111111011       1111110                       1110           1000010101111001110000001010000101</tspan>
-    <tspan
-       style="fill:url(#linearGradient6670);fill-opacity:1"
-       y="245"
-       x="5"
-       id="tspan2791">11011101101011010011          011                     011          1000010000111001110001111100010101100</tspan>
-    <tspan
-       style="fill:url(#linearGradient6670);fill-opacity:1"
-       y="250"
-       x="5"
-       id="tspan2793">01010011101111111100110         01                   101         111100011001011110110110101011101010101</tspan>
-    <tspan
-       style="fill:url(#linearGradient6670);fill-opacity:1"
-       y="255"
-       x="5"
-       id="tspan2795">111101011100   010111011111                         01         0111101000101   1000011011110110010101001</tspan>
-    <tspan
-       style="fill:url(#linearGradient6670);fill-opacity:1"
-       y="260"
-       x="5"
-       id="tspan2797">11111100000100                                                               100111010110101001001001010</tspan>
-    <tspan
-       style="fill:url(#linearGradient6670);fill-opacity:1"
-       y="265"
-       x="5"
-       id="tspan2799">101000010111100110                                                     110110011101010001100000110001010</tspan>
-  </text>
   <g
      id="layer1-9"
      transform="matrix(0.26458333,0,0,0.26458333,-208.74749,-60.427948)" />
@@ -11210,64 +11134,10 @@
      d="M 41.509766 1056.3184 C 36.802555 1056.3184 32.3052 1057.4764 28.019531 1059.7949 C 23.76899 1062.1134 21.644531 1064.187 21.644531 1066.0137 C 21.644531 1066.8919 21.943832 1067.6646 22.541016 1068.332 C 23.138199 1068.9643 23.822877 1069.2793 24.595703 1069.2793 C 25.298272 1069.2793 25.930132 1069.07 26.492188 1068.6484 C 29.442976 1066.5407 31.972372 1065.0286 34.080078 1064.1152 C 36.222913 1063.1668 38.699491 1062.6934 41.509766 1062.6934 C 45.654922 1062.6934 48.921815 1063.8358 51.310547 1066.1191 C 53.699281 1068.3674 54.894531 1071.4582 54.894531 1075.3926 C 54.894531 1078.4839 53.96337 1081.381 52.101562 1084.0859 C 50.274884 1086.7908 46.532631 1090.0577 40.876953 1093.8867 C 33.816137 1098.7696 28.530422 1103.6347 25.017578 1108.4824 C 21.504734 1113.3301 19.748047 1118.1796 19.748047 1123.0273 C 19.748047 1125.4512 20.415119 1127.3468 21.75 1128.7168 C 23.084881 1130.0868 25.035233 1130.7715 27.599609 1130.7715 L 56.949219 1130.7715 C 59.197441 1130.7715 60.320313 1129.7366 60.320312 1127.6641 C 60.320312 1125.5563 59.197441 1124.502 56.949219 1124.502 L 28.441406 1124.502 C 27.071397 1124.502 26.386719 1123.8173 26.386719 1122.4473 C 26.386719 1119.0047 27.879317 1115.3504 30.865234 1111.4863 C 33.88628 1107.6222 38.40124 1103.5474 44.408203 1099.2617 C 51.363632 1094.3788 55.964669 1090.1984 58.212891 1086.7207 C 60.46111 1083.243 61.585937 1079.3619 61.585938 1075.0762 C 61.585938 1069.3151 59.811645 1064.7493 56.263672 1061.377 C 52.715701 1058.0046 47.797756 1056.3184 41.509766 1056.3184 z M 98.417969 1057.0547 C 97.258732 1057.0547 96.221934 1057.9506 95.308594 1059.7422 L 74.232422 1101.8438 C 73.108312 1104.092 72.544922 1106.2184 72.544922 1108.2207 C 72.544922 1110.3284 73.196342 1111.909 74.496094 1112.9629 C 75.830975 1113.9816 77.832193 1114.4902 80.501953 1114.4902 L 107.48047 1114.4902 L 107.48047 1127.7695 C 107.48047 1129.9826 108.60529 1131.0879 110.85352 1131.0879 C 113.06661 1131.0879 114.17188 1129.9826 114.17188 1127.7695 L 114.17188 1114.4902 L 119.33594 1114.4902 C 121.58416 1114.4902 122.70898 1113.4358 122.70898 1111.3281 C 122.70898 1109.2556 121.58416 1108.2207 119.33594 1108.2207 L 114.17188 1108.2207 L 114.17188 1078.7656 C 114.17188 1076.5174 113.06661 1075.3926 110.85352 1075.3926 C 108.60529 1075.3926 107.48047 1076.5174 107.48047 1078.7656 L 107.48047 1108.2207 L 81.609375 1108.2207 C 80.169108 1108.2207 79.449219 1107.7806 79.449219 1106.9023 C 79.449219 1106.4808 79.623325 1105.9194 79.974609 1105.2168 L 101.78906 1061.5859 C 101.99983 1061.059 102.10547 1060.6032 102.10547 1060.2168 C 102.10547 1058.636 101.20952 1057.6168 99.417969 1057.1602 C 99.242332 1057.0899 99.068225 1057.0547 98.892578 1057.0547 L 98.417969 1057.0547 z M 166.39062 1092.4688 C 165.36389 1092.4688 164.85156 1092.983 164.85156 1094.0098 L 164.85156 1129.8105 C 164.85156 1130.8709 165.36389 1131.4004 166.39062 1131.4004 C 167.50152 1131.4004 168.05859 1130.8709 168.05859 1129.8105 L 168.05859 1127.4121 C 168.78236 1128.8091 169.80041 1129.8852 171.11328 1130.6426 C 172.42615 1131.3832 173.92425 1131.7539 175.60742 1131.7539 C 179.05792 1131.7539 181.7927 1130.5001 183.8125 1127.9922 C 185.84914 1125.4843 186.86719 1122.0936 186.86719 1117.8184 C 186.86719 1113.459 185.93277 1110.1263 184.06445 1107.8203 C 182.19614 1105.5144 179.49559 1104.3613 175.96094 1104.3613 C 174.2441 1104.3613 172.67754 1104.79 171.26367 1105.6484 C 169.86664 1106.5068 168.79919 1107.6257 168.05859 1109.0059 L 168.05859 1094.0098 C 168.05859 1092.983 167.50152 1092.4688 166.39062 1092.4688 z M 223.19922 1092.4688 C 222.13882 1092.4688 221.60742 1092.983 221.60742 1094.0098 L 221.60742 1129.8613 C 221.60742 1130.888 222.13882 1131.4004 223.19922 1131.4004 C 224.27645 1131.4004 224.81445 1130.888 224.81445 1129.8613 L 224.81445 1094.0098 C 224.81445 1092.983 224.27645 1092.4688 223.19922 1092.4688 z M 212.29102 1094.0098 C 211.70191 1094.0098 211.19814 1094.2284 210.77734 1094.666 C 210.35655 1095.0868 210.14453 1095.5906 210.14453 1096.1797 C 210.14453 1096.752 210.34799 1097.2577 210.75195 1097.6953 C 211.15591 1098.1329 211.66824 1098.3516 212.29102 1098.3516 C 212.91379 1098.3516 213.42807 1098.15 213.83203 1097.7461 C 214.25282 1097.3421 214.46289 1096.8193 214.46289 1096.1797 C 214.46289 1095.5569 214.24426 1095.0446 213.80664 1094.6406 C 213.38585 1094.2198 212.88013 1094.0098 212.29102 1094.0098 z M 146.39453 1104.3613 C 142.82621 1104.3613 140.0572 1105.6237 138.08789 1108.1484 C 136.13541 1110.6564 135.16016 1113.9463 135.16016 1118.0195 C 135.16016 1122.1601 136.12025 1125.4843 138.03906 1127.9922 C 139.95788 1130.5001 142.61562 1131.7539 146.01562 1131.7539 C 147.79978 1131.7539 149.3578 1131.3832 150.6875 1130.6426 C 152.0172 1129.902 153.11889 1128.7917 153.99414 1127.3105 L 153.99414 1129.8105 C 153.99414 1130.8709 154.52554 1131.4004 155.58594 1131.4004 C 156.66317 1131.4004 157.20117 1130.8709 157.20117 1129.8105 L 157.20117 1106.2793 C 157.20117 1105.2357 156.66317 1104.7148 155.58594 1104.7148 C 154.52554 1104.7148 153.99414 1105.2357 153.99414 1106.2793 L 153.99414 1108.4512 C 153.15256 1107.0878 152.10027 1106.0697 150.83789 1105.3965 C 149.57551 1104.7064 148.09453 1104.3613 146.39453 1104.3613 z M 202.57031 1104.3613 C 201.12279 1104.3613 199.86899 1104.6722 198.80859 1105.2949 C 197.76503 1105.9177 196.90764 1106.8436 196.23438 1108.0723 L 196.23438 1106.2793 C 196.23437 1105.2357 195.69442 1104.7148 194.61719 1104.7148 C 193.55679 1104.7148 193.02734 1105.2357 193.02734 1106.2793 L 193.02734 1129.8105 C 193.02734 1130.8709 193.55679 1131.4004 194.61719 1131.4004 C 195.69442 1131.4004 196.23438 1130.8709 196.23438 1129.8105 L 196.23438 1114.7637 C 196.23437 1112.5587 196.80662 1110.7821 197.95117 1109.4355 C 199.09573 1108.089 200.6195 1107.416 202.52148 1107.416 C 203.19475 1107.416 203.8164 1107.4997 204.38867 1107.668 C 204.69165 1107.769 204.95307 1107.8203 205.17188 1107.8203 C 205.54217 1107.8203 205.81876 1107.6596 206.00391 1107.3398 C 206.20588 1107.0032 206.30859 1106.6154 206.30859 1106.1777 C 206.30859 1105.656 205.99582 1105.2273 205.37305 1104.8906 C 204.76711 1104.5372 203.83269 1104.3613 202.57031 1104.3613 z M 212.29102 1104.7148 C 211.23062 1104.7148 210.70117 1105.2357 210.70117 1106.2793 L 210.70117 1129.8105 C 210.70117 1130.8709 211.2135 1131.4004 212.24023 1131.4004 C 213.35113 1131.4004 213.90625 1130.8709 213.90625 1129.8105 L 213.90625 1106.2793 C 213.90625 1105.2357 213.36824 1104.7148 212.29102 1104.7148 z M 146.49609 1107.416 C 148.66738 1107.416 150.45918 1108.1726 151.87305 1109.6875 C 153.28691 1111.1855 153.99414 1113.1294 153.99414 1115.5195 L 153.99414 1120.6445 C 153.99414 1123.0178 153.29547 1124.9637 151.89844 1126.4785 C 150.50141 1127.9765 148.70104 1128.7246 146.49609 1128.7246 C 143.80302 1128.7246 141.77548 1127.7731 140.41211 1125.8711 C 139.04874 1123.9523 138.36719 1121.3354 138.36719 1118.0195 C 138.36719 1114.9562 139.08103 1112.4229 140.51172 1110.4199 C 141.94241 1108.4169 143.93768 1107.416 146.49609 1107.416 z M 175.65625 1107.416 C 178.2315 1107.416 180.20964 1108.3162 181.58984 1110.1172 C 182.97004 1111.9182 183.66016 1114.4857 183.66016 1117.8184 C 183.66016 1121.151 182.93776 1123.8022 181.49023 1125.7715 C 180.05954 1127.7408 178.07284 1128.7246 175.53125 1128.7246 C 173.30947 1128.7246 171.5091 1127.9166 170.12891 1126.3008 C 168.74871 1124.6849 168.05859 1122.5975 168.05859 1120.0391 L 168.05859 1116.0508 C 168.05859 1113.3409 168.77243 1111.2278 170.20312 1109.7129 C 171.65065 1108.1812 173.46813 1107.416 175.65625 1107.416 z "
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.55239296px;line-height:10;font-family:'GE Inspira';-inkscape-font-specification:'GE Inspira, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#84a994;fill-opacity:1;stroke:none;stroke-width:2.69786882" />
   <path
-     style="fill:none;fill-opacity:1;stroke:#719c83;stroke-width:1.85208333;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 5.8208333,203.91327 V 63.668827 l 31.4153587,-7.498386 23.112122,-16.501036 4.159452,-16.246829 28.262949,0.113958 7.306925,-2.683392"
-     id="path6606"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccc" />
-  <path
-     id="path6608"
-     d="m 13.513753,139.15198 -3.6815813,0.0228 -1.8946718,-2.61263 V 66.144889 L 39.540581,59.219533 63.343152,41.354246 66.549468,29.371482 75.867561,29.250611"
-     style="fill:none;fill-opacity:1;stroke:#719c83;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccc" />
-  <path
-     id="path6612"
-     d="m 13.674913,109.00789 -2.275968,-0.0806 -0.08058,-38.177896 31.741006,-6.810336 23.617823,-19.707099 1.108368,-3.297238 h 8.983394"
-     style="fill:none;fill-opacity:1;stroke:#719c83;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
-  <path
      id="path6614"
      d="M 13.902828,189.97089 H 5.8655795"
      style="fill:none;fill-opacity:1;stroke:#719c83;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      inkscape:connector-curvature="0" />
-  <circle
-     style="opacity:1;fill:#719c83;fill-opacity:1;stroke:none;stroke-width:2.75091028;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-     id="path6620"
-     cx="102.10825"
-     cy="19.668331"
-     r="3.96875" />
-  <ellipse
-     cy="81.743301"
-     cx="126.44968"
-     id="circle6648"
-     style="opacity:1;fill:none;fill-opacity:1;stroke:#719c83;stroke-width:1.35043335;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-     rx="2.6320765"
-     ry="2.6320763" />
-  <rect
-     style="opacity:1;fill:#719c83;fill-opacity:1;stroke:none;stroke-width:0.96001482;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-     id="rect6690"
-     width="9.260417"
-     height="3.96875"
-     x="75.852959"
-     y="38.997284" />
-  <rect
-     y="33.282269"
-     x="75.852959"
-     height="3.96875"
-     width="9.260417"
-     id="rect6692"
-     style="opacity:1;fill:#719c83;fill-opacity:1;stroke:none;stroke-width:0.96001482;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
-  <rect
-     style="opacity:1;fill:#719c83;fill-opacity:1;stroke:none;stroke-width:0.96001482;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-     id="rect6694"
-     width="9.260417"
-     height="3.96875"
-     x="75.852959"
-     y="27.567286" />
-  <path
-     style="fill:none;stroke:#719c83;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-     d="m 76.342098,35.356478 -8.963063,0.08835 -2.094881,7.23004 L 41.807972,61.48017 9.5249999,68.547838 v 55.276812 l 4.7197011,0.0513"
-     id="path6712" />
   <path
      style="fill:none;fill-opacity:1;stroke:#719c83;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 13.902828,177.27081 H 5.8655795"
@@ -11283,217 +11153,6 @@
      d="M 13.902828,151.34148 H 5.9461597"
      id="path3638"
      inkscape:connector-curvature="0" />
-  <text
-     id="text3647"
-     y="75.314529"
-     x="45.384861"
-     style="font-style:normal;font-weight:normal;font-size:4.75595522px;line-height:20;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#638e76;fill-opacity:1;stroke:none;stroke-width:0.11889888"
-     xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:20;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#638e76;fill-opacity:1;stroke-width:0.11889888"
-       y="75.314529"
-       x="45.384861"
-       id="tspan3645">Software</tspan></text>
-  <rect
-     y="6.5622492"
-     x="126.6106"
-     height="5.2916665"
-     width="5.2916665"
-     id="rect3649"
-     style="opacity:1;fill:#719c83;fill-opacity:1;stroke:none;stroke-width:1.61658311;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
-  <circle
-     r="1.3229166"
-     cy="9.2080832"
-     cx="129.25644"
-     id="circle3651"
-     style="opacity:1;fill:#84a994;fill-opacity:1;stroke:none;stroke-width:1.61658299;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
-  <text
-     xml:space="preserve"
-     x="133.41293"
-     y="11.180628"
-     id="text3657"><tspan
-       id="tspan3655"
-       x="133.41293"
-       y="11.180628"
-       class="libertades"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:'Ubuntu Mono';fill:#638e76;fill-opacity:1;stroke-width:0.18385004">Usar</tspan></text>
-  <rect
-     style="opacity:1;fill:#719c83;fill-opacity:1;stroke:none;stroke-width:1.61658311;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-     id="rect6642"
-     width="5.2916665"
-     height="5.2916665"
-     x="115.12757"
-     y="22.627026" />
-  <circle
-     style="opacity:1;fill:#84a994;fill-opacity:1;stroke:none;stroke-width:1.61658299;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-     id="circle6644"
-     cx="117.77341"
-     cy="25.27286"
-     r="1.3229166" />
-  <text
-     id="text3661"
-     y="26.843695"
-     x="117.73525"
-     style="font-style:normal;font-weight:normal;font-size:7.35400152px;line-height:10;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#638e76;fill-opacity:1;stroke:none;stroke-width:0.18385004"
-     xml:space="preserve"
-     transform="scale(1.0274694,0.97326499)"><tspan
-       class="libertades"
-       y="26.843695"
-       x="117.73525"
-       id="tspan3659"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:'Ubuntu Mono';fill:#638e76;fill-opacity:1;stroke-width:0.18385004">Estudiar</tspan></text>
-  <rect
-     style="opacity:1;fill:#719c83;fill-opacity:1;stroke:none;stroke-width:1.61658311;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-     id="rect6622"
-     width="5.2916665"
-     height="5.2916665"
-     x="94.987564"
-     y="30.294605" />
-  <circle
-     style="opacity:1;fill:#84a994;fill-opacity:1;stroke:none;stroke-width:1.61658299;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-     id="path6624"
-     cx="97.633408"
-     cy="32.940441"
-     r="1.3229166" />
-  <text
-     transform="scale(1.0274694,0.97326499)"
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:7.35400152px;line-height:10;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#638e76;fill-opacity:1;stroke:none;stroke-width:0.18385004"
-     x="98.445908"
-     y="35.809307"
-     id="text3665"><tspan
-       id="tspan3663"
-       x="98.445908"
-       y="35.809307"
-       class="libertades"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:'Ubuntu Mono';fill:#638e76;fill-opacity:1;stroke-width:0.18385004">Redistribuir</tspan></text>
-  <rect
-     y="14.162382"
-     x="120.00958"
-     height="5.2916665"
-     width="5.2916665"
-     id="rect6636"
-     style="opacity:1;fill:#719c83;fill-opacity:1;stroke:none;stroke-width:1.61658311;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
-  <circle
-     r="1.3229166"
-     cy="16.808216"
-     cx="122.65543"
-     id="circle6638"
-     style="opacity:1;fill:#84a994;fill-opacity:1;stroke:none;stroke-width:1.61658299;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
-  <text
-     id="text3669"
-     y="19.233938"
-     x="122.79897"
-     style="font-style:normal;font-weight:normal;font-size:7.35400152px;line-height:10;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#638e76;fill-opacity:1;stroke:none;stroke-width:0.18385004"
-     xml:space="preserve"
-     transform="scale(1.0274694,0.97326499)"><tspan
-       class="libertades"
-       y="19.233938"
-       x="122.79897"
-       id="tspan3667"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:'Ubuntu Mono';fill:#638e76;fill-opacity:1;stroke-width:0.18385004">Modificar</tspan></text>
-  <path
-     id="path3704"
-     d="m 101.49476,23.479279 0,4.477724 -3.833089,0.08058 v 2.393112"
-     style="fill:none;stroke:#719c83;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
-     id="path3706"
-     d="m 103.61275,22.795533 0.88638,2.189287 10.71201,0.04029"
-     style="fill:none;stroke:#719c83;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
-     id="path3708"
-     d="m 102.38785,17.716812 7.10231,0.16116 3.28051,-5.084231 0.20145,-3.6028078 13.8627,0.04029"
-     style="fill:none;stroke:#719c83;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
-     id="path3710"
-     d="m 104.38971,21.266882 8.20041,0.16116 2.4449,-4.879336 5.64609,0.201451"
-     style="fill:none;stroke:#719c83;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <rect
-     style="opacity:1;fill:#719c83;fill-opacity:1;stroke:none;stroke-width:1.61658311;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-     id="rect2858"
-     width="5.2916665"
-     height="5.2916665"
-     x="165.01347"
-     y="56.435345" />
-  <circle
-     style="opacity:1;fill:#84a994;fill-opacity:1;stroke:none;stroke-width:1.61658299;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-     id="circle2860"
-     cx="167.65932"
-     cy="59.081177"
-     r="1.3229166" />
-  <text
-     id="text2866"
-     y="62.508575"
-     x="167.27797"
-     style="font-style:normal;font-weight:normal;font-size:7.35400152px;line-height:10;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#415d4e;fill-opacity:1;stroke:none;stroke-width:0.18385004"
-     xml:space="preserve"
-     transform="scale(1.0274694,0.97326499)"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:'Ubuntu Mono';fill:#415d4e;fill-opacity:1;stroke-width:0.18385004"
-       class="libertades"
-       y="62.508575"
-       x="167.27797"
-       id="tspan2864">sábado</tspan></text>
-  <g
-     transform="translate(12.700002,-4.5531396)"
-     id="g6646">
-    <rect
-       style="opacity:1;fill:#719c83;fill-opacity:1;stroke:none;stroke-width:1.61658311;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-       id="rect2870"
-       width="5.2916665"
-       height="5.2916665"
-       x="158.1344"
-       y="69.942604" />
-    <circle
-       style="opacity:1;fill:#84a994;fill-opacity:1;stroke:none;stroke-width:1.61658299;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-       id="circle2872"
-       cx="160.78024"
-       cy="72.58844"
-       r="1.3229166" />
-  </g>
-  <text
-     transform="scale(1.0274694,0.97326499)"
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:7.35400152px;line-height:10;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#415d4e;fill-opacity:1;stroke:none;stroke-width:0.18385004;"
-     x="172.93443"
-     y="71.708656"
-     id="text2878"><tspan
-       id="tspan2876"
-       x="172.93443"
-       y="71.708656"
-       class="libertades"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:'Ubuntu Mono';fill:#415d4e;fill-opacity:1;stroke-width:0.18385004;">24 abril</tspan></text>
-  <g
-     transform="translate(27.516678,-3.6612053)"
-     id="g6655">
-    <rect
-       y="78.375473"
-       x="158.1344"
-       height="5.2916665"
-       width="5.2916665"
-       id="rect2886"
-       style="opacity:1;fill:#719c83;fill-opacity:1;stroke:none;stroke-width:1.61658311;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
-    <circle
-       r="1.3229166"
-       cy="81.021301"
-       cx="160.78024"
-       id="circle2888"
-       style="opacity:1;fill:#84a994;fill-opacity:1;stroke:none;stroke-width:1.61658299;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
-  </g>
-  <text
-     id="text2894"
-     y="81.125565"
-     x="186.33351"
-     style="font-style:normal;font-weight:normal;font-size:7.35400152px;line-height:10;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#415d4e;fill-opacity:1;stroke:none;stroke-width:0.18385004;"
-     xml:space="preserve"
-     transform="scale(1.0274694,0.97326499)"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:'Ubuntu Mono';fill:#415d4e;fill-opacity:1;stroke-width:0.18385004;"
-       class="libertades"
-       y="81.125565"
-       x="186.33351"
-       id="tspan2892">2021</tspan></text>
-  <path
-     style="fill:none;stroke:#719c83;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 185.77049,77.230764 -47.56695,-0.113957 -8.81543,5.852534"
-     id="path2898" />
   <g
      id="g42302"
      transform="translate(3.285971,3.5112063)">
@@ -11675,14 +11334,6 @@
          y="183.19353"
          x="17.551254">digitales] libres.</tspan></text>
   </g>
-  <path
-     id="path6658"
-     d="m 171.35317,68.443389 -30.07278,-0.05698 -3.36066,6.300656 -8.75954,6.231037"
-     style="fill:none;stroke:#719c83;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
-     style="fill:none;stroke:#719c83;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 165.51941,59.083854 -22.57882,-0.13756 -6.82561,14.721286 -8.03432,5.747556"
-     id="path6660" />
   <g
      transform="translate(-24.678511,-43.386849)"
      aria-label="      Talleres  "
@@ -11777,50 +11428,6 @@
        x="94.495712"
        y="57.083302"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:20;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#638e76;fill-opacity:1;stroke-width:0.11889888" /></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:4.75595522px;line-height:20;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#638e76;fill-opacity:1;stroke:none;stroke-width:0.11889888"
-     x="117.09753"
-     y="53.632805"
-     id="text2888"><tspan
-       id="tspan2886"
-       x="117.09753"
-       y="53.632805"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:20;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#638e76;fill-opacity:1;stroke-width:0.11889888">Libre</tspan></text>
-  <path
-     id="path2894"
-     d="m 114.7462,51.087845 h -10.47542 l -1.24688,4.653404 h -5.844181"
-     style="fill:none;stroke:#719c83;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
-  <path
-     id="path2896"
-     d="m 73.439338,63.928587 0.01264,-3.102338 7.772863,-5.064751 h 6.285254 l 1.604756,-5.217287 1.025618,7.806097 1.880301,-6.951414 1.994258,7.065371 1.766343,-7.578181 1.398348,4.855165"
-     style="fill:none;stroke:#719c83;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <rect
-     y="48.299908"
-     x="110.02997"
-     height="5.2916665"
-     width="5.2916665"
-     id="rect3714"
-     style="opacity:1;fill:#719c83;fill-opacity:1;stroke:none;stroke-width:1.61658311;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
-  <circle
-     r="1.3229166"
-     cy="50.945744"
-     cx="112.67581"
-     id="circle3716"
-     style="opacity:1;fill:#84a994;fill-opacity:1;stroke:none;stroke-width:1.61658299;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
-  <rect
-     style="opacity:1;fill:#719c83;fill-opacity:1;stroke:none;stroke-width:1.61658311;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-     id="rect3718"
-     width="5.2916665"
-     height="5.2916665"
-     x="70.870262"
-     y="63.228355" />
-  <circle
-     style="opacity:1;fill:#84a994;fill-opacity:1;stroke:none;stroke-width:1.61658299;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-     id="circle3720"
-     cx="73.516113"
-     cy="65.874191"
-     r="1.3229166" />
   <g
      style="fill:#50735f;fill-opacity:1"
      transform="translate(35.660148,8.8992889)"
